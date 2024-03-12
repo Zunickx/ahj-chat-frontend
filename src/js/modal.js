@@ -1,5 +1,5 @@
-/* eslint-disable eol-last */
 /* eslint-disable linebreak-style */
+/* eslint-disable eol-last */
 /* eslint-disable max-len */
 import HiddenTempEl from './utility';
 
