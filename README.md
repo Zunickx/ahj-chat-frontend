@@ -1,5 +1,11 @@
 # 8. Домашнее задание к лекции «EventSource, WebSockets»
 
+[Ссылка на задание](https://github.com/netology-code/ahj-homeworks/blob/AHJ-50/sse-ws/README.md)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/e18kre94op63oxrd?svg=true)](https://ci.appveyor.com/project/Zunickx/ahj-chat-frontend)
+
+![CI](https://github.com/Zunickx/ahj-chat-frontend/actions/workflows/web.yml/badge.svg)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
